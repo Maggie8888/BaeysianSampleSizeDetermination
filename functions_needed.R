@@ -60,17 +60,3 @@ TMAX <- 4 # specify maximal number of dynamic panels
 TMAX2 <- 4 # specify maximal number of dynamic panels
 # end of functions needed 
 ##########
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
