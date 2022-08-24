@@ -1,11 +1,3 @@
-##1 Calculate nC and nT based on the predetermined parameters (standard sample size calculation) 
-##2 Calculate ?? based on cH, nCH,, tH, nTH, nC, nT and ??C. By integration of the historical data, 
-## we should generally obtain an increase in power. If no increase in power is obtained, 
-##  then stop, as the integration of historical data does yield any benefit.
-##3 Decrease nC and nT until the power still lies above the predefined power level 1 ??? ??
-## 4 Calculate ?? as based on cH, nCH,, tH, nTH and ??C, and on the new nC and nT from 3.
-## 5 a. If ?? increase, obtain an increase in power as in step 2 and go back to step 3 with ??_1 = ??_0 
-## and nC and nT from 5.b. If ??_1 ?????_0, stop. nC, nT (from 4) and ??_0 is the preferable combination
 
 
 
